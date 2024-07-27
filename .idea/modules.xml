@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AGNN-main/.idea/AGNN-main.iml" filepath="$PROJECT_DIR$/../AGNN-main/.idea/AGNN-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FewRel-master512重启版本/.idea/FewRel-master.iml" filepath="$PROJECT_DIR$/../FewRel-master512重启版本/.idea/FewRel-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FewRel0629.iml" filepath="$PROJECT_DIR$/.idea/FewRel0629.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../few-shot-gnn-master/.idea/few-shot-gnn-master.iml" filepath="$PROJECT_DIR$/../few-shot-gnn-master/.idea/few-shot-gnn-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../论文/图神经网络/静态图/Graph_Network/Graph_Network/pyGAT/.idea/pyGAT.iml" filepath="$PROJECT_DIR$/../../论文/图神经网络/静态图/Graph_Network/Graph_Network/pyGAT/.idea/pyGAT.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>

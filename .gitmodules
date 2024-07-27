@@ -1,0 +1,3 @@
+[submodule "xxx"]
+	path = xxx
+	url = https://github.com/Xing-zhezhe/SRE-HGNN.git
